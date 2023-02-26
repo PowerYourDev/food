@@ -1,0 +1,37 @@
+.shimmer-Box{
+    width: 180px;
+    height: 300px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 1px 1px;    
+}
+.shimmer-img{
+    width: 170px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.shimmer-txt{
+    width:100px;
+    height: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.shimmer-Ltxt{
+    width:120px;
+    height: 40px;
+    border: 1px solid black;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.shimmer-stxt{
+    width:150px;
+    height: 15px;
+    border: 1px solid black;
+    margin-top: 20px;
+    border-radius: 10px;
+}
